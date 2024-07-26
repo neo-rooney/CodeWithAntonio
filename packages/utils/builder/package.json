@@ -1,5 +1,5 @@
 {
-  "name": "@rfm-util/builder",
+  "name": "@cwa-util/builder",
   "main": "dist/index.js",
   "type": "module",
   "exports": {
