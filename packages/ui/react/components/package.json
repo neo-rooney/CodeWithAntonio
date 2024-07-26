@@ -1,0 +1,11 @@
+{
+  "name": "@cwa-ui/react-component",
+  "packageManager": "yarn@4.3.1",
+  "scripts": {
+    "build:css": "tailwindcss -i ./src/index.css -o ./dist/styles.css",
+    "dev:css": "tailwindcss -i ./src/index.css -o ./dist/styles.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.7"
+  }
+}
